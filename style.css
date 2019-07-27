@@ -245,16 +245,17 @@ body {
       display:flex;
       float:center;
     }
-    header{
-      position: static
-    }
     .work{
       width: 100%;
     }
-}
+    #logo {
+      width: 100%;
+    }
 
-.wrapper {
-    width: 600px;
+    .name {
+      width: 100%;
+      position:center;
+  }
 }
 
 
